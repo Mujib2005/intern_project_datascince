@@ -45,3 +45,5 @@ In this data science project, we embarked on a comprehensive analysis of the une
    This project not only provided valuable insights into the economic impact of the Covid-19 pandemic but also demonstrated the power of data science in understanding and addressing complex socio-economic challenges. The findings contribute to informed decision-making and policy formulation, and underscore the importance of data-driven approaches in mitigating the effects of future crises.
    # author
    https://www.linkedin.com/in/mujib-malik-2a6489233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+   # reference
+   https://oasisinfobyte.com/
